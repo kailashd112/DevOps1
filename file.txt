@@ -1,1 +1,2 @@
-Hello from main and feature branch
+Hello from feature
+This is a new feature added
